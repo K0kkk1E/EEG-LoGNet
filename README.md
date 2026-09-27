@@ -32,15 +32,17 @@ Please refer to the official dataset provider for data access and usage requirem
 
 If you find this work useful, please consider citing our paper:
 
-```bibtex
-@article{your_paper_2026,
-  title   = {Your Paper Title},
-  author  = {Author Name and Author Name and Author Name},
-  journal = {Journal or Conference Name},
-  year    = {2026}
+@InProceedings{GuoJin_EEGLoGNet_MICCAISAT2026,
+        author = { Guo, Jinsong AND Li, Yuchong AND Jia, Fucang},
+        title = { { EEG-LoGNet: Bridging Local Features and Global Contexts for EEG-Based Motor Imagery Classification } },
+        booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Workshops and Challenges},
+        year = {2026},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 17255},
+        month = {pending},
+        page = {pending}
 }
-```
-The citation information will be updated after publication.
+
 
 ## License
 
