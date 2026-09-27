@@ -32,6 +32,8 @@ Please refer to the official dataset provider for data access and usage requirem
 
 If you find this work useful, please consider citing our paper:
 
+
+'''
 @InProceedings{GuoJin_EEGLoGNet_MICCAISAT2026,
         author = { Guo, Jinsong AND Li, Yuchong AND Jia, Fucang},
         title = { { EEG-LoGNet: Bridging Local Features and Global Contexts for EEG-Based Motor Imagery Classification } },
@@ -42,6 +44,7 @@ If you find this work useful, please consider citing our paper:
         month = {pending},
         page = {pending}
 }
+'''
 
 
 ## License
